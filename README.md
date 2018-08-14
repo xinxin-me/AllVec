@@ -1,4 +1,4 @@
-# AllVec
+# Batch IS NOT Heavy: Learning Word Representations From All Samples
 Training algorithm for learning word embedding from all samples. Please use the GloVe code to build co-occurrence statistics.
 
 word_vetors_v1 utilize gradient descent methods and word_vectors_v2 utilize Newton methods.
